@@ -100,7 +100,7 @@ function test_input($data) {
 <option value="Sistem Informasi S1">A12</option>
 <option value="Teknik Informatika D3">A22</option>
 </select>
-<span class="error">* <?php echo $nimErr;?></span>
+<span class="error">* <?php echo $progdiErr;?></span>
 </td>
 </tr>
 <tr>
